@@ -20,6 +20,8 @@ import {
 import React from "react";
 import { Metadata } from "next";
 
+
+// About
 export const metadata: Metadata = {
   title: "About",
   description:
